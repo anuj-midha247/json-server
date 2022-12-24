@@ -4,10 +4,9 @@
       {
         "id":1,
         "name":"anuj",
-        "age":25,
-        "place":"jalandhar",
-        "batch":"pt web-07",
-        "profession":"student"
+        "category":"science",
+        "difficulty":"easy",
+        "#questions":"8"
     }
   ]
   }
