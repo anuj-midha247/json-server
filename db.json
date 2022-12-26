@@ -2,11 +2,7 @@
    
     "users":[
       {
-        "id":1,
-        "name":"anuj",
-        "category":"science",
-        "difficulty":"easy",
-        "questions":"8"
+       
     }
   ]
   }
